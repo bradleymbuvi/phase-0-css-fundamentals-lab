@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
+
+  
+nav {
+  text-align: center;
+  background: blueviolet;
+}
+#featured-property {
+  text-align: center;
+  width: 800px;
+}
+#details{
+  display: flex;
+
+}
